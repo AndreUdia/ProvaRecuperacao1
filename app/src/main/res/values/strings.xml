@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProvaRecuperacao</string>
+    <string name="um">A moda do freguês</string>
+    <string name="btn1">1</string>
+    <string name="dica1">Escolha no máximo 5 ingredientes</string>
+    <string name="dois">4 queijos </string>
+    <string name="btn2">2</string>
+    <string name="dica2">Gorgonzola, mussarela, pmesão, provolonee</string>
+    <string name="tres">Aliche</string>
+    <string name="btn3">3</string>
+    <string name="dica3">Aliche e mussarela</string>
+    <string name="quatro">Calabresa</string>
+    <string name="btn4">4</string>
+    <string name="dica4">Calabresa com queijo mussarela</string>
+    <string name="cinco">Peperoni</string>
+    <string name="btn5">5</string>
+    <string name="dica5">Peperoni com queijo mussarela</string>
+    <string name="total">Total do pedido: R$</string>
+</resources>
