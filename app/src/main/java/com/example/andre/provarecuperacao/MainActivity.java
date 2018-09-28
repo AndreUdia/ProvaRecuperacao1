@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
 
         String res = Double.toString(resultado);
 
-        temp.setText(res.replace(".", "."));
+        temp.setText(res.replace(".", ","));
     }
 }
